@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment 1</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="Heading">Historian Zone</string>
+    <string name="Generate_History">Generate History</string>
+    <string name="Clear">Clear</string>
+    <string name="Enter_Age_Here">Enter Age Here:</string>
+
+</resources>

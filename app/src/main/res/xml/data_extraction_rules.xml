@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:tools="http://schemas.android.com/tools">
+    <!-- Include the user's app-specific files directory in the backup -->
+    <include domain="file" path="." />
+
+    <!-- Exclude cache files from the backup -->
+    <exclude domain="cache" path="."
+        tools:ignore="FullBackupContent" />
+</full-backup-content>
